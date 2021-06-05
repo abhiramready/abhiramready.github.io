@@ -4,7 +4,7 @@
 
 Abhiram is a Programmer by Passion, he enjoys learning how things work under the hood. He is a Web and App Developer and likes to optimizing the code to extreme levels and finds frontend development fascinating.
 
-## Skills
+## Skillset
 
 - CSS3
 - HTML5
